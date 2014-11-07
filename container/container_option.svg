@@ -274,7 +274,7 @@
 </symbol>
 </g>
 </defs>
-<g id="surface790575">
+<g id="surface793436">
 <rect x="0" y="0" width="875" height="281" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill-rule:evenodd;fill:rgb(100%,80.000001%,80.000001%);fill-opacity:1;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 38.999992 13.000078 L 47.999992 13.000078 L 47.999992 21.000078 L 38.999992 21.000078 Z M 38.999992 13.000078 " transform="matrix(20,0,0,20,-698.585786,-176.275)"/>
 <path style="fill-rule:evenodd;fill:rgb(80.000001%,100%,80.000001%);fill-opacity:1;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 47.999992 13.000078 L 70.999992 13.000078 L 70.999992 21.000078 L 47.999992 21.000078 Z M 47.999992 13.000078 " transform="matrix(20,0,0,20,-698.585786,-176.275)"/>
@@ -329,8 +329,6 @@
   <use xlink:href="#glyph1-9" x="822.722656" y="119.101563"/>
   <use xlink:href="#glyph1-11" x="827.605469" y="119.101563"/>
 </g>
-<path style="fill:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 38.999992 20.800078 L 41.999992 20.800078 " transform="matrix(20,0,0,20,-698.585786,-176.275)"/>
-<path style="fill:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 41.999992 20.800078 L 41.999992 20.800078 C 42.071867 19.984453 41.778899 19.178984 41.199992 18.600078 C 40.621086 18.021172 39.815617 17.728203 38.999992 17.800078 " transform="matrix(20,0,0,20,-698.585786,-176.275)"/>
 <path style="fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 41.999992 15.000078 L 44.999992 15.000078 L 44.999992 17.000078 L 41.999992 17.000078 Z M 41.999992 15.000078 " transform="matrix(20,0,0,20,-698.585786,-176.275)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph1-12" x="153.875" y="149.101563"/>
